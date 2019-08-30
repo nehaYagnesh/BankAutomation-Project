@@ -10,9 +10,6 @@ import org.openqa.selenium.firefox.FirefoxBinary;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxProfile;
 
-
-
-
 public class TestScript2 {
 
 	public static WebDriver driver;	
@@ -36,8 +33,8 @@ public class TestScript2 {
 		baseUrl = Util.BASE_URL;
 		// Specifies the amount of time the driver should wait when searching for an element if it is not immediately present.
 		// Refer - http://selenium.googlecode.com/git/docs/api/java/org/openqa/selenium/WebDriver.Timeouts.html
-		/*driver.manage().timeouts()
-		.implicitlyWait(Util.WAIT_TIME, TimeUnit.SECONDS);*/
+		driver.manage().timeouts()
+		.implicitlyWait(Util.WAIT_TIME, TimeUnit.SECONDS);
 		driver.get(baseUrl + "/V4/");
 	}
 
