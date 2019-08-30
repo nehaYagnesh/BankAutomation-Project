@@ -34,5 +34,6 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="lib" path="jxl.jar"/>
+	<classpathentry kind="lib" path="commons-io-2.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

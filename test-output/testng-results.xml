@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="30251" started-at="2019-08-30T19:33:04Z" finished-at="2019-08-30T19:33:35Z">
+  <suite name="Default suite" duration-ms="25115" started-at="2019-08-30T20:02:31Z" finished-at="2019-08-30T20:02:56Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="30251" started-at="2019-08-30T19:33:04Z" finished-at="2019-08-30T19:33:35Z">
-      <class name="Browser.TestScript05">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="setUp" is-config="true" duration-ms="5502" started-at="2019-08-30T19:33:04Z" finished-at="2019-08-30T19:33:10Z">
+    <test name="Default test" duration-ms="25115" started-at="2019-08-30T20:02:31Z" finished-at="2019-08-30T20:02:56Z">
+      <class name="Browser.TestScript06">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript06@3532ec19]" name="setUp" is-config="true" duration-ms="5626" started-at="2019-08-30T20:02:31Z" finished-at="2019-08-30T20:02:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test05(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript05@5e5792a0]" name="test05" duration-ms="2039" started-at="2019-08-30T19:33:10Z" data-provider="BankTestData" finished-at="2019-08-30T19:33:12Z">
+        <test-method status="PASS" signature="test05(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript06@3532ec19]" name="test05" duration-ms="1872" started-at="2019-08-30T20:02:37Z" data-provider="BankTestData" finished-at="2019-08-30T20:02:38Z">
           <params>
             <param index="0">
               <value>
@@ -27,15 +27,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test05 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="tearDown" is-config="true" duration-ms="226" started-at="2019-08-30T19:33:12Z" finished-at="2019-08-30T19:33:12Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript06@3532ec19]" name="tearDown" is-config="true" duration-ms="249" started-at="2019-08-30T20:02:38Z" finished-at="2019-08-30T20:02:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="setUp" is-config="true" duration-ms="6959" started-at="2019-08-30T19:33:12Z" finished-at="2019-08-30T19:33:19Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript06@3532ec19]" name="setUp" is-config="true" duration-ms="3714" started-at="2019-08-30T20:02:39Z" finished-at="2019-08-30T20:02:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test05(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript05@5e5792a0]" name="test05" duration-ms="757" started-at="2019-08-30T19:33:19Z" data-provider="BankTestData" finished-at="2019-08-30T19:33:20Z">
+        <test-method status="PASS" signature="test05(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript06@3532ec19]" name="test05" duration-ms="769" started-at="2019-08-30T20:02:42Z" data-provider="BankTestData" finished-at="2019-08-30T20:02:43Z">
           <params>
             <param index="0">
               <value>
@@ -51,15 +51,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test05 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="tearDown" is-config="true" duration-ms="2166" started-at="2019-08-30T19:33:20Z" finished-at="2019-08-30T19:33:22Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript06@3532ec19]" name="tearDown" is-config="true" duration-ms="159" started-at="2019-08-30T20:02:43Z" finished-at="2019-08-30T20:02:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="setUp" is-config="true" duration-ms="6034" started-at="2019-08-30T19:33:22Z" finished-at="2019-08-30T19:33:28Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript06@3532ec19]" name="setUp" is-config="true" duration-ms="4115" started-at="2019-08-30T20:02:43Z" finished-at="2019-08-30T20:02:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test05(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript05@5e5792a0]" name="test05" duration-ms="789" started-at="2019-08-30T19:33:28Z" data-provider="BankTestData" finished-at="2019-08-30T19:33:29Z">
+        <test-method status="PASS" signature="test05(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript06@3532ec19]" name="test05" duration-ms="825" started-at="2019-08-30T20:02:47Z" data-provider="BankTestData" finished-at="2019-08-30T20:02:48Z">
           <params>
             <param index="0">
               <value>
@@ -75,15 +75,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test05 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="tearDown" is-config="true" duration-ms="187" started-at="2019-08-30T19:33:29Z" finished-at="2019-08-30T19:33:29Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript06@3532ec19]" name="tearDown" is-config="true" duration-ms="2295" started-at="2019-08-30T20:02:48Z" finished-at="2019-08-30T20:02:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="setUp" is-config="true" duration-ms="4149" started-at="2019-08-30T19:33:29Z" finished-at="2019-08-30T19:33:33Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript06@3532ec19]" name="setUp" is-config="true" duration-ms="4006" started-at="2019-08-30T20:02:51Z" finished-at="2019-08-30T20:02:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test05(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript05@5e5792a0]" name="test05" duration-ms="1089" started-at="2019-08-30T19:33:33Z" data-provider="BankTestData" finished-at="2019-08-30T19:33:34Z">
+        <test-method status="PASS" signature="test05(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript06@3532ec19]" name="test05" duration-ms="1205" started-at="2019-08-30T20:02:55Z" data-provider="BankTestData" finished-at="2019-08-30T20:02:56Z">
           <params>
             <param index="0">
               <value>
@@ -99,11 +99,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test05 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="tearDown" is-config="true" duration-ms="284" started-at="2019-08-30T19:33:34Z" finished-at="2019-08-30T19:33:35Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript06@3532ec19]" name="tearDown" is-config="true" duration-ms="237" started-at="2019-08-30T20:02:56Z" finished-at="2019-08-30T20:02:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- Browser.TestScript05 -->
+      </class> <!-- Browser.TestScript06 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
