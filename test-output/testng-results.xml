@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="31235" started-at="2019-08-30T17:08:36Z" finished-at="2019-08-30T17:09:08Z">
+  <suite name="Default suite" duration-ms="30251" started-at="2019-08-30T19:33:04Z" finished-at="2019-08-30T19:33:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="31235" started-at="2019-08-30T17:08:36Z" finished-at="2019-08-30T17:09:08Z">
-      <class name="Browser.TestScript04_TestNG">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript04_TestNG@4501b7af]" name="setUp" is-config="true" duration-ms="7090" started-at="2019-08-30T17:08:37Z" finished-at="2019-08-30T17:08:44Z">
+    <test name="Default test" duration-ms="30251" started-at="2019-08-30T19:33:04Z" finished-at="2019-08-30T19:33:35Z">
+      <class name="Browser.TestScript05">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="setUp" is-config="true" duration-ms="5502" started-at="2019-08-30T19:33:04Z" finished-at="2019-08-30T19:33:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testcase4(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript04_TestNG@4501b7af]" name="testcase4" duration-ms="1921" started-at="2019-08-30T17:08:44Z" data-provider="BankTestData" finished-at="2019-08-30T17:08:46Z">
+        <test-method status="PASS" signature="test05(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript05@5e5792a0]" name="test05" duration-ms="2039" started-at="2019-08-30T19:33:10Z" data-provider="BankTestData" finished-at="2019-08-30T19:33:12Z">
           <params>
             <param index="0">
               <value>
@@ -26,16 +26,16 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testcase4 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript04_TestNG@4501b7af]" name="tearDown" is-config="true" duration-ms="2350" started-at="2019-08-30T17:08:46Z" finished-at="2019-08-30T17:08:48Z">
+        </test-method> <!-- test05 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="tearDown" is-config="true" duration-ms="226" started-at="2019-08-30T19:33:12Z" finished-at="2019-08-30T19:33:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript04_TestNG@4501b7af]" name="setUp" is-config="true" duration-ms="4509" started-at="2019-08-30T17:08:48Z" finished-at="2019-08-30T17:08:52Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="setUp" is-config="true" duration-ms="6959" started-at="2019-08-30T19:33:12Z" finished-at="2019-08-30T19:33:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testcase4(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript04_TestNG@4501b7af]" name="testcase4" duration-ms="504" started-at="2019-08-30T17:08:52Z" data-provider="BankTestData" finished-at="2019-08-30T17:08:53Z">
+        <test-method status="PASS" signature="test05(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript05@5e5792a0]" name="test05" duration-ms="757" started-at="2019-08-30T19:33:19Z" data-provider="BankTestData" finished-at="2019-08-30T19:33:20Z">
           <params>
             <param index="0">
               <value>
@@ -50,16 +50,16 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testcase4 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript04_TestNG@4501b7af]" name="tearDown" is-config="true" duration-ms="134" started-at="2019-08-30T17:08:53Z" finished-at="2019-08-30T17:08:53Z">
+        </test-method> <!-- test05 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="tearDown" is-config="true" duration-ms="2166" started-at="2019-08-30T19:33:20Z" finished-at="2019-08-30T19:33:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript04_TestNG@4501b7af]" name="setUp" is-config="true" duration-ms="6242" started-at="2019-08-30T17:08:53Z" finished-at="2019-08-30T17:08:59Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="setUp" is-config="true" duration-ms="6034" started-at="2019-08-30T19:33:22Z" finished-at="2019-08-30T19:33:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testcase4(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript04_TestNG@4501b7af]" name="testcase4" duration-ms="832" started-at="2019-08-30T17:08:59Z" data-provider="BankTestData" finished-at="2019-08-30T17:09:00Z">
+        <test-method status="PASS" signature="test05(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript05@5e5792a0]" name="test05" duration-ms="789" started-at="2019-08-30T19:33:28Z" data-provider="BankTestData" finished-at="2019-08-30T19:33:29Z">
           <params>
             <param index="0">
               <value>
@@ -68,22 +68,22 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[asdrt]]>
+                <![CDATA[78dsk]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testcase4 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript04_TestNG@4501b7af]" name="tearDown" is-config="true" duration-ms="136" started-at="2019-08-30T17:09:00Z" finished-at="2019-08-30T17:09:00Z">
+        </test-method> <!-- test05 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="tearDown" is-config="true" duration-ms="187" started-at="2019-08-30T19:33:29Z" finished-at="2019-08-30T19:33:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript04_TestNG@4501b7af]" name="setUp" is-config="true" duration-ms="4190" started-at="2019-08-30T17:09:00Z" finished-at="2019-08-30T17:09:05Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="setUp" is-config="true" duration-ms="4149" started-at="2019-08-30T19:33:29Z" finished-at="2019-08-30T19:33:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testcase4(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript04_TestNG@4501b7af]" name="testcase4" duration-ms="912" started-at="2019-08-30T17:09:05Z" data-provider="BankTestData" finished-at="2019-08-30T17:09:05Z">
+        <test-method status="PASS" signature="test05(java.lang.String, java.lang.String)[pri:0, instance:Browser.TestScript05@5e5792a0]" name="test05" duration-ms="1089" started-at="2019-08-30T19:33:33Z" data-provider="BankTestData" finished-at="2019-08-30T19:33:34Z">
           <params>
             <param index="0">
               <value>
@@ -92,18 +92,18 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[asdrt]]>
+                <![CDATA[78dsk]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testcase4 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript04_TestNG@4501b7af]" name="tearDown" is-config="true" duration-ms="2241" started-at="2019-08-30T17:09:05Z" finished-at="2019-08-30T17:09:08Z">
+        </test-method> <!-- test05 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Browser.TestScript05@5e5792a0]" name="tearDown" is-config="true" duration-ms="284" started-at="2019-08-30T19:33:34Z" finished-at="2019-08-30T19:33:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- Browser.TestScript04_TestNG -->
+      </class> <!-- Browser.TestScript05 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
