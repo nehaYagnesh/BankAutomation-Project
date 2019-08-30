@@ -20,7 +20,7 @@ public class Util {
 	
 	public static final int WAIT_TIME = 30;
 	public static final String EXPECTED_TITLE = "Guru99 Bank Manager HomePage";
-	public static final String EXPECTED_ERROR ="User or Password is invalid";
+	public static final String EXPECTED_ERROR ="User or Password is not valid";
 	
 	public static String[][] getDataFromExcel(String xlFilePath, String sheetName, String tableName)throws Exception{
 	
